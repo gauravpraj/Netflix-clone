@@ -1,0 +1,1 @@
+# This project is a Netflix clone, designed to replicate the user interface and functionality of the popular streaming platform. It provides a sleek and responsive user interface, allowing users to browse and stream a variety of movies and TV shows.
